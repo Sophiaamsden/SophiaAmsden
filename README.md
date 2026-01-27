@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Sophia 👋
 
-<!--
-**Sophiaamsden/SophiaAmsden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m an economics student with a background in data science. 
+I enjoy using data to answer real-world questions about markets, wages, and business decisions.
 
-Here are some ideas to get you started:
+## 🔧 Skills
+- SQL (joins, CTEs, window functions)
+- R (data analysis, regression, visualization)
+- Python (pandas, data cleaning)
+- Tableau
+- Excel
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Featured Projects
+### 1. Employer Concentration and Wages
+**Tools:** SQL, R  
+Analyzed industry-level data to study how employer concentration affects wages.
+
+🔗 [View Project](https://github.com/yourusername/employer-concentration-wages)
+
+### 2. Sales Data Dashboard
+**Tools:** SQL, Tableau  
+Built a dashboard to track sales performance and identify trends.
+
+🔗 [View Project](https://github.com/yourusername/sales-dashboard)
+
+## 📄 Resume
+🔗 [Download Resume](link)
+
+## 🔗 Connect
+- LinkedIn: www.linkedin.com/in/sophiaamsden
+- Email: amsdensm@gmail.com
