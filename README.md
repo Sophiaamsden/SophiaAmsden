@@ -1,12 +1,11 @@
 # Hi, I'm Sophia 👋
 
-I’m an economics student with a background in data science. 
-I enjoy using data to answer real-world questions about markets, wages, and business decisions.
+Undergraduate Student | Data Analytics Enthusiast | Economics Background
 
 ## 🔧 Skills
-- SQL (joins, CTEs, window functions)
-- R (data analysis, regression, visualization)
-- Python (pandas, data cleaning)
+- SQL 
+- R 
+- Python 
 - Tableau
 - Excel
 
