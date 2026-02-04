@@ -16,8 +16,8 @@ Predicts loan approval outcomes using applicant financial and employment feature
 
 🔗 [View Project](https://github.com/yourusername/employer-concentration-wages)
 
-### 2. Sales Data Dashboard
-**Tools:** SQL, Tableau  
+### 2. Booking Cancellation Prediction Project
+**Tools:** Python  
 Built a dashboard to track sales performance and identify trends.
 
 🔗 [View Project](https://github.com/yourusername/sales-dashboard)
