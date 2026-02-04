@@ -10,9 +10,9 @@ Undergraduate Student | Data Analytics Enthusiast | Economics Background
 - Excel
 
 ## 📊 Featured Projects
-### 1. Employer Concentration and Wages
-**Tools:** SQL, R  
-Analyzed industry-level data to study how employer concentration affects wages.
+### 1. Loan Approval Streamlit App
+**Tools:** Python  
+Predicts loan approval outcomes using applicant financial and employment features, allowing users to compare decisions across multiple lenders in a Streamlit app
 
 🔗 [View Project](https://github.com/yourusername/employer-concentration-wages)
 
