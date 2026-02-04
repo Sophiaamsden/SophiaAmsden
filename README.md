@@ -14,7 +14,7 @@ Undergraduate Student | Data Analytics Enthusiast | Economics Background
 **Tools:** Python  
 A Streamlit-based app predicting loan approval outcomes using 10+ applicant financial and employment features. Enables users to compare decisions across multiple lenders, supporting consistent and data-driven loan evaluations.
 
-🔗 [View Project](https://github.com/yourusername/employer-concentration-wages)
+🔗 [View Project](https://github.com/Sophiaamsden/loanapp)
 
 ### 2. Booking Cancellation Prediction Project
 **Tools:** Python  
