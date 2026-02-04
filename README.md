@@ -20,7 +20,7 @@ A Streamlit-based app predicting loan approval outcomes using 10+ applicant fina
 **Tools:** Python  
 Room reservation cancellation prediction using Logistic Regression, Random Forest, and XGBoost. Built predictive models achieving 90% accuracy to identify high-risk bookings, providing actionable insights for hotel management.
 
-🔗 [View Project](https://github.com/yourusername/sales-dashboard)
+🔗 [View Project](https://github.com/Sophiaamsden/Booking_Cancellation_Prediction)
 
 ## 📄 Resume
 🔗 [Download Resume](link)
