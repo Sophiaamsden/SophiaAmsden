@@ -23,7 +23,7 @@ Room reservation cancellation prediction using Logistic Regression, Random Fores
 🔗 [View Project](https://github.com/Sophiaamsden/Booking_Cancellation_Prediction)
 
 ## 📄 Resume
-🔗 [Download Resume](link)
+🔗 [Download Resume](https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:a8a8a79b-d94d-4350-9a87-3b0a41e313bf)
 
 ## 🔗 Connect
 - LinkedIn: www.linkedin.com/in/sophiaamsden
